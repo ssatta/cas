@@ -4,15 +4,12 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h2>HELLO</h2>
-        <p>Cras facilisis urna ornare ex volutpat, et
-        convallis erat elementum. Ut aliquam, ipsum vitae
-        gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-        metus nec massa. Maecenas hendrerit laoreet augue
-        nec molestie. Cum sociis natoque penatibus et magnis
-        dis parturient montes, nascetur ridiculus mus.</p>
+        <h2>How to use this app</h2>
+        <p>You can use this app to see Intensity Plots. 
+        That will help you see correlations between different insects in our sample.
+        Click on the Demo or Get Started button!</p>
  
-        <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
+        <p>It's gonna be cool!!</p>
       </div>
     );
   }
