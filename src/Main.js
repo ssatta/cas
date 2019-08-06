@@ -14,7 +14,7 @@ class Main extends Component {
     return (
       <HashRouter>
         <div>
-          <h1 className="title">Intensity Plots</h1>
+          <h1 className="title">μSat Intensity Plots</h1>
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/demo">Demo</NavLink></li>
